@@ -1,0 +1,16 @@
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\obj\Debug\net5.0\Convert.csprojAssemblyReference.cache
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\obj\Debug\net5.0\Convert.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\obj\Debug\net5.0\Convert.AssemblyInfoInputs.cache
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\obj\Debug\net5.0\Convert.AssemblyInfo.cs
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\obj\Debug\net5.0\Convert.csproj.CoreCompileInputs.cache
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\bin\Debug\net5.0\Convert.exe
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\bin\Debug\net5.0\Convert.deps.json
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\bin\Debug\net5.0\Convert.runtimeconfig.json
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\bin\Debug\net5.0\Convert.runtimeconfig.dev.json
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\bin\Debug\net5.0\Convert.dll
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\bin\Debug\net5.0\ref\Convert.dll
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\bin\Debug\net5.0\Convert.pdb
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\obj\Debug\net5.0\Convert.dll
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\obj\Debug\net5.0\ref\Convert.dll
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\obj\Debug\net5.0\Convert.pdb
+C:\Users\Janahan\Documents\GitHub\ZigZagConversion\Convert\obj\Debug\net5.0\Convert.genruntimeconfig.cache
